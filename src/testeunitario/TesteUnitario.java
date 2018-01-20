@@ -17,7 +17,7 @@ public class TesteUnitario {
     public static void main(String[] args) {
         ValidaDados v = new ValidaDados();
         System.out.println(v.validarCNPJ("22688303000180"));
-        System.out.println(v.validarCPF("08895174609"));
+        System.out.println(v.validarCPF("088951746091"));
     }
     
 }
